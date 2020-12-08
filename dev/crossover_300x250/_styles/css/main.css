@@ -260,9 +260,9 @@ sup {
 }
 
 .player2 {
-  -webkit-transform: translate(-50px, -20px) scale(0.5) rotate(0deg);
-  -ms-transform: translate(-50px, -20px) scale(0.5) rotate(0deg);
-  transform: translate(-50px, -20px) scale(0.5) rotate(0deg);
+  -webkit-transform: translate(-90px, -20px) scale(0.5) rotate(0deg);
+  -ms-transform: translate(-90px, -20px) scale(0.5) rotate(0deg);
+  transform: translate(-90px, -20px) scale(0.5) rotate(0deg);
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -webkit-perspective: 1000px;
