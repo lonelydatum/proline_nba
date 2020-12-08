@@ -1,0 +1,17 @@
+
+
+@import '../../../_common/styles/common.scss';
+@import '../../../_common/styles/big.scss';
+
+
+
+.player1{		
+	@include pos-scale-rotate(140, 140, .5, 0);
+}
+
+
+.player2{		
+	@include pos-scale-rotate(-130, 140, .5, 0);
+}
+
+

@@ -1,0 +1,15 @@
+@import '../../../_common/styles/common.scss';
+@import '../../../_common/styles/dbb.scss';
+
+
+.player1{		
+	@include pos-scale-rotate(50, 120, .5, 0);
+}
+
+
+.player2{		
+	@include pos-scale-rotate(-70, 150, .5, 0);
+}
+
+
+
